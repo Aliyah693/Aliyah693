@@ -14,8 +14,12 @@ Bachelor Of Computer Science (Computer Network And Security) With Honours
 * Pre-university (physical science): KMNS
 * University (computer and network security) : UTM (current degree undergraduate)
 
-  Here are the basic skills I have acquired throughout my 2 years of degree:
+### Position
+* 
+## Positions Held:
+  
 
+  Here are the basic skills I have acquired throughout my 2 years of degree:
 ### Skills
 
 
