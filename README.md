@@ -18,6 +18,11 @@ Core
 ### Position
 * 
 #### Positions Held:
+*Most recent to least recent*
+* Academic Exco in Persatuan Mahasiswa Sains Komputer (PERSAKA), a club under the Faculty Of Computing, UTM Skudai
+* Activity Exco in Kelab Volunteer UTM Skudai
+* Kerani Pengundian/Kerani Mengira Undi (KP/KMU) under Suruhanjaya Pilihan Raya (SPR) for Pilihan Raya Umum (PRU) Ke-15
+* Promoter at Bata Malaysia, a role that required extensive communication and persuasive skills to effectively engage with customers
   
 #### Here are the basic skills I have acquired throughout my 2 years of degree:
 ## Skills
