@@ -8,7 +8,8 @@ Bachelor Of Computer Science (Computer Network And Security) With Honours
 * ✉️  You can contact me at [nooraliyah@graduate.utm.my](mailto:nooraliyah@graduate.utm.my)
 * 🧠  I'm Majoring in Computer Network and Security
 * 🤝  I'm open to collaborating on projects
-  
+
+Core
 ### 🎓 Education Background 🎓
 * Highschool (science stream)    : SMK USJ 4, SMK USJ 12
 * Pre-university (physical science): KMNS
@@ -16,11 +17,10 @@ Bachelor Of Computer Science (Computer Network And Security) With Honours
 
 ### Position
 * 
-## Positions Held:
+#### Positions Held:
   
-
-  Here are the basic skills I have acquired throughout my 2 years of degree:
-### Skills
+#### Here are the basic skills I have acquired throughout my 2 years of degree:
+## Skills
 
 
 <p align="left">
