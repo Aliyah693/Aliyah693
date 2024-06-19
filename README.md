@@ -6,7 +6,7 @@ Bachelor Of Computer Science (Computer Network And Security) With Honours
 
 * 🌍  I'm based in Selangor/Johor
 * ✉️  You can contact me at [nooraliyah@graduate.utm.my](mailto:nooraliyah@graduate.utm.my)
-* 🧠  I'm learning Computer Network and Security and Learning different computer languages such as C++ and Java
+* 🧠  I'm Majoring in Computer Network and Security
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
