@@ -17,8 +17,7 @@ For more information, take a look at our assignment 1 report:
 #### Summary And Reflection:
 I was tasked with designing and developing a single-page personal website landing page using HTML and CSS grid layouts. I used the web browser's inspect element tool to identify specifications and elements to be implemented on my own website. I structured my webpage into sections with a navigation bar at the top and left side of the page for easy navigation of different sections such as personal information, interest, and achievement content throughout the website. On the website, I included descriptive text and images to make the content more engaging and reflective of my personality. For styling the website, I used CSS to personalize the visual of my webpage. Lastly, I used 000webhost, which is a free web hosting service, to publish my webpage and make it more accessible. By completing this assignment, I enhanced my skills in HTML and CSS as I applied it right after learning it in class which gives me a deeper understanding of the importance of a well-structured and visually appealing webpage. It also taught me the value of responsive design in ensuring that the webpage looks good and functions well on various devices
 
-Take a look at the [website] I created using HTML and CSS!
-[website]:https://mypersonalwebsite-wpbynaas.000webhostapp.com/assignment2.html 
+Take a look at the [website](https://mypersonalwebsite-wpbynaas.000webhostapp.com/assignment2.html ) I created using HTML and CSS!
 
 #### Improvement Suggestion:
 To further improve the project, I could explore more advanced CSS techniques and animations to make the page more interactive and visually appealing according to my styling. Additionally, I could also use JavaScript to add more functionality to the webpage, such as interactive elements  but this and PHP will be implemented in my final project for my Web Programming course.
