@@ -9,6 +9,8 @@ Bachelor Of Computer Science (Computer Network And Security) With Honours
 * 🧠  I'm Majoring in Computer Network and Security
 * 🤝  I'm open to collaborating on projects
 
+  Here are the basic skills I have acquired throughout my 2 years of degree:
+
 ### Skills
 
 
