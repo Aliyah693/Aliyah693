@@ -47,7 +47,7 @@ Bachelor Of Computer Science (Computer Network And Security) With Honours
 * 🎓 Completion of **Cisco® CCNAv7: Introduction to Networks** course ), Here is my certification: [Cisco Certificate](cisco_cert.pdf)
 
 ### Web Programming Assignments And Projects
-Take a look at my [assignments and projects]([Web_Programming_Assignments.md](https://github.com/Aliyah693/Aliyah693/blob/main/Web_Programming_Assignments.md))!
+Take a look at my [assignments and projects](https://github.com/Aliyah693/Aliyah693/blob/main/Web_Programming_Assignments.md)!
 
 ### Socials
 
