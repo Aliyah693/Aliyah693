@@ -41,8 +41,8 @@ Bachelor Of Computer Science (Computer Network And Security) With Honours
 </p>
 
 ### Recent Courses Certificate and Awards
-* CADS
-*s
+* Completion of **Enterprise Data Practitioner & Smart Skills** course under Center of Applied Data Science (CADS), Here is my certification: (CADS Certificate)[]
+* 
 
 ###
 
