@@ -11,7 +11,7 @@ For this assignment, my groupmates and I conducted a comparative evaluation of w
 To improve future evaluations, it would be beneficial to consider additional metrics beyond those provided by Google Lighthouse. These could include user experience testing and a deeper examination of website content relevance. In my opinion, **conducting surveys** with users could also provide valuable insights into their preferences and expectations of the website, further enhancing the evaluation process.
 
 For more information, take a look at our assignment 1 report: 
-[Assignment Report 1]()
+[Assignment Report 1](Assignment1.pdf)
 
 ## Assignment 2: Design and Develop Personal Website Landing Page
 
