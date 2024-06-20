@@ -31,5 +31,5 @@ For assignment 3, I was tasked with developing an e-portfolio on GitHub which al
 
 ### Improvement Suggestion:
 To enhance the e-portfolio, I should regularly update it with new projects, skills, and certifications. Adding more interactive elements and improving the visual design could also make the portfolio more engaging.
-Take a look at my [e-portfolio](Update Web_Programming_Assignments.md) on github!
+Take a look at my [e-portfolio](https://github.com/Aliyah693/Aliyah693/blob/main/README.md) on github!
 
