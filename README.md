@@ -41,10 +41,13 @@ Bachelor Of Computer Science (Computer Network And Security) With Honours
 </p>
 
 ### Recent Courses Certificate and Awards
-* Completion of **Enterprise Data Practitioner & Smart Skills** course under Center of Applied Data Science (CADS), Here is my certification: (CADS Certificate)[]
-* 
+#### *Most recent to least recent*
+* 🎓 Completion of **Enterprise Data Practitioner & Smart Skills** course under Center of Applied Data Science (CADS), Here is my certification: [CADS Certificate](cads_cert.pdf)
+*  🎓 Graduate of **Axiata Digital Leaders Programme (ADLP) For Girls**, Here is my certification: [ADLP Certificate](axiata_cert.pdf)
+* 🎓 Completion of **Cisco® CCNAv7: Introduction to Networks** course ), Here is my certification: [Cisco Certificate](cisco_cert.pdf)
 
-###
+### Web Programming Assignments And Projects
+Take a look at my [assignments and projects](Web_Programming_Assignments.md)!
 
 ### Socials
 
