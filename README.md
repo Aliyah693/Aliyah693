@@ -9,7 +9,7 @@ Bachelor Of Computer Science (Computer Network And Security) With Honours
 * 🧠  I'm Majoring in Computer Network and Security
 * 🤝  I'm open to collaborating on projects
 
-Core
+##### Core
 ### 🎓 Education Background 🎓
 * Highschool (science stream)    : SMK USJ 4, SMK USJ 12
 * Pre-university (physical science): KMNS
@@ -40,6 +40,11 @@ Core
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Recent Courses Certificate and Awards
+* CADS
+*s
+
+###
 
 ### Socials
 
@@ -48,9 +53,6 @@ Core
 
 <a href="https://www.linkedin.com/in/Aliyah Saufi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
-
-### Recent Certificate and Awards
-
 
 ### Badges
 
